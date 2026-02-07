@@ -1,6 +1,21 @@
-<!-- HEADER — adapts to light & dark mode -->
+<!-- HEADER — Stunning Beautiful Design -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:30363d&height=220&section=header&text=Mehedi%20Hasan%20Alif&fontSize=42&fontColor=58a6ff&fontAlignY=35&desc=Backend%20Developer%20%7C%20System%20Architect%20%7C%20API%20Craftsman&descSize=16&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%" />
+  <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 40px 20px; border-radius: 20px; margin: 20px 0; box-shadow: 0 10px 30px rgba(0,0,0,0.2);">
+    <h1 style="color: #ffffff; font-size: 3.5em; font-weight: 900; margin: 0; text-shadow: 3px 3px 6px rgba(0,0,0,0.3); letter-spacing: -1px;">
+      🚀 Mehedi Hasan Alif
+    </h1>
+    <div style="width: 80px; height: 4px; background: #ffffff; border-radius: 2px; margin: 15px auto;"></div>
+    <p style="color: #e0e7ff; font-size: 1.4em; margin: 15px 0; font-weight: 600; letter-spacing: 0.5px;">
+      💻 Backend Developer | 🏗️ System Architect | ⚡ API Craftsman
+    </p>
+    <div style="display: flex; justify-content: center; gap: 20px; margin-top: 25px;">
+      <span style="background: rgba(255,255,255,0.2); padding: 8px 16px; border-radius: 20px; font-size: 0.9em; font-weight: 500;">Node.js</span>
+      <span style="background: rgba(255,255,255,0.2); padding: 8px 16px; border-radius: 20px; font-size: 0.9em; font-weight: 500;">Express</span>
+      <span style="background: rgba(255,255,255,0.2); padding: 8px 16px; border-radius: 20px; font-size: 0.9em; font-weight: 500;">PostgreSQL</span>
+      <span style="background: rgba(255,255,255,0.2); padding: 8px 16px; border-radius: 20px; font-size: 0.9em; font-weight: 500;">TypeScript</span>
+    </div>
+  </div>
+  <div style="width: 100%; height: 6px; background: linear-gradient(90deg, #667eea, #764ba2, #f093fb, #f5576c); border-radius: 3px; margin: 20px 0; box-shadow: 0 2px 10px rgba(102, 126, 234, 0.3);"></div>
 </div>
 
 <!-- TYPING ANIMATION -->
