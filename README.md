@@ -176,11 +176,7 @@ const alif = {
 ## 🔝 Top Contributed Repos
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-contributor-stats.vercel.app/api?username=HasanAlif&limit=5&theme=github_dark&combine_all_yearly_contributions=true&hide_border=true&bg_color=0d1117" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-contributor-stats.vercel.app/api?username=HasanAlif&limit=5&theme=default&combine_all_yearly_contributions=true&hide_border=true" />
-    <img src="https://github-contributor-stats.vercel.app/api?username=HasanAlif&limit=5&theme=default&combine_all_yearly_contributions=true&hide_border=true" width="70%" alt="Top Contributed Repos" />
-  </picture>
+  <img src="https://github-contributor-stats.vercel.app/api?username=HasanAlif&limit=5&theme=default&combine_all_yearly_contributions=true&hide_border=true" width="70%" alt="Top Contributed Repos" />
 </div>
 
 ---
@@ -199,21 +195,13 @@ const alif = {
 <br/>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" />
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" width="70%" alt="Random Dev Quote" />
-  </picture>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" width="70%" alt="Random Dev Quote" />
 </div>
 
 <br/>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-    <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
-  </picture>
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
 </div>
 
 <br/>
@@ -222,11 +210,7 @@ const alif = {
   <img src="https://komarev.com/ghpvc/?username=HasanAlif&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
 
-<!-- FOOTER — adapts to light & dark mode -->
+<!-- FOOTER — GitHub-compatible -->
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:30363d&height=120&section=footer" />
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,50:6366f1,100:818cf8&height=120&section=footer" />
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,50:6366f1,100:818cf8&height=120&section=footer" width="100%" alt="Footer" />
-  </picture>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,3&height=120&section=footer&text=Made%20with%20❤️%20by%20Mehedi%20Hasan%20Alif&fontSize=24&fontColor=ffffff&fontAlignY=45" width="100%" alt="Footer" />
 </div>
