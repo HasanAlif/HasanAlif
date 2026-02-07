@@ -1,16 +1,12 @@
 <!-- HEADER — adapts to light & dark mode -->
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:30363d&height=220&section=header&text=Mehedi%20Hasan%20Alif&fontSize=42&fontColor=58a6ff&fontAlignY=35&desc=Backend%20Developer%20%7C%20System%20Architect%20%7C%20API%20Craftsman&descSize=16&descColor=8b949e&descAlignY=55&animation=fadeIn" />
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,50:6366f1,100:818cf8&height=220&section=header&text=Mehedi%20Hasan%20Alif&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Backend%20Developer%20%7C%20System%20Architect%20%7C%20API%20Craftsman&descSize=16&descColor=e0e7ff&descAlignY=55&animation=fadeIn" />
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,50:6366f1,100:818cf8&height=220&section=header&text=Mehedi%20Hasan%20Alif&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Backend%20Developer%20%7C%20System%20Architect%20%7C%20API%20Craftsman&descSize=16&descColor=e0e7ff&descAlignY=55&animation=fadeIn" width="100%" alt="Header" />
-  </picture>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:30363d&height=220&section=header&text=Mehedi%20Hasan%20Alif&fontSize=42&fontColor=58a6ff&fontAlignY=35&desc=Backend%20Developer%20%7C%20System%20Architect%20%7C%20API%20Craftsman&descSize=16&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%" />
 </div>
 
 <!-- TYPING ANIMATION -->
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Building+Scalable+Backend+Systems+⚙️;Node.js+%7C+Express+%7C+NestJS+%7C+Next.js;PostgreSQL+%7C+MongoDB+%7C+MySQL;Clean+Architecture+%26+Design+Patterns;Always+Learning+%26+Building+🚀&center=true&size=26&color=2563eb&vCenter=true&width=650&height=60&duration=3500&pause=800" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Building+Scalable+Backend+Systems+⚙️;Node.js+%7C+Express+%7C+NestJS+%7C+Next.js;PostgreSQL+%7C+MongoDB+%7C+MySQL;Clean+Architecture+%26+Design+Patterns;Always+Learning+%26+Building+🚀&center=true&size=24&color=58a6ff&background=00000000&vCenter=true&width=600&height=50&duration=4000&pause=1000">
   </a>
 </h1>
 
@@ -210,7 +206,7 @@ const alif = {
   <img src="https://komarev.com/ghpvc/?username=HasanAlif&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
 
-<!-- FOOTER — GitHub-compatible -->
+<!-- FOOTER — Beautiful and attractive -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,3&height=120&section=footer&text=Made%20with%20❤️%20by%20Mehedi%20Hasan%20Alif&fontSize=24&fontColor=ffffff&fontAlignY=45" width="100%" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,3&height=120&section=footer&text=Made%20with%20❤️%20by%20Mehedi%20Hasan%20Alif&fontSize=24&fontColor=2563eb&fontAlignY=45" width="100%" alt="Footer" />
 </div>
