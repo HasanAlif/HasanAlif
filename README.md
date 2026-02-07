@@ -9,11 +9,9 @@
 
 <!-- TYPING ANIMATION -->
 <h1 align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com/?lines=Building+Scalable+Backend+Systems+⚙️;Node.js+%7C+Express+%7C+NestJS+%7C+Next.js;PostgreSQL+%7C+MongoDB+%7C+MySQL;Clean+Architecture+%26+Design+Patterns;Always+Learning+%26+Building+🚀&center=true&size=24&color=58a6ff&background=00000000&vCenter=true&width=600&height=50&duration=4000&pause=1000" />
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com/?lines=Building+Scalable+Backend+Systems+⚙️;Node.js+%7C+Express+%7C+NestJS+%7C+Next.js;PostgreSQL+%7C+MongoDB+%7C+MySQL;Clean+Architecture+%26+Design+Patterns;Always+Learning+%26+Building+🚀&center=true&size=24&color=4338ca&background=00000000&vCenter=true&width=600&height=50&duration=4000&pause=1000" />
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Building+Scalable+Backend+Systems+⚙️;Node.js+%7C+Express+%7C+NestJS+%7C+Next.js;PostgreSQL+%7C+MongoDB+%7C+MySQL;Clean+Architecture+%26+Design+Patterns;Always+Learning+%26+Building+🚀&center=true&size=24&color=4338ca&background=00000000&vCenter=true&width=600&height=50&duration=4000&pause=1000" alt="Typing SVG" />
-  </picture>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Building+Scalable+Backend+Systems+⚙️;Node.js+%7C+Express+%7C+NestJS+%7C+Next.js;PostgreSQL+%7C+MongoDB+%7C+MySQL;Clean+Architecture+%26+Design+Patterns;Always+Learning+%26+Building+🚀&center=true&size=26&color=2563eb&vCenter=true&width=650&height=60&duration=3500&pause=800" alt="Typing SVG" />
+  </a>
 </h1>
 
 <!-- SOCIAL BADGES -->
@@ -147,69 +145,33 @@ const alif = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=HasanAlif&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=HasanAlif&show_icons=true&theme=default&hide_border=true&title_color=4338ca&icon_color=6366f1&text_color=1f2937&count_private=true" />
-    <img src="https://github-readme-stats.vercel.app/api?username=HasanAlif&show_icons=true&theme=default&hide_border=true&count_private=true" height="180" alt="GitHub Stats" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=HasanAlif&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=HasanAlif&layout=compact&theme=default&hide_border=true&title_color=4338ca&text_color=1f2937" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HasanAlif&layout=compact&theme=default&hide_border=true" height="180" alt="Top Languages" />
-  </picture>
+  <a href="https://github.com/HasanAlif">
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=HasanAlif&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HasanAlif&layout=compact&langs_count=7&theme=radical"/>
+  </a>
+</div>
+
+
+<br/>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=HasanAlif&theme=tokyonight&hide_border=false&border_radius=10" width="70%" alt="GitHub Streak" />
 </div>
 
 <br/>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=HasanAlif&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=HasanAlif&theme=default&hide_border=true&ring=4338ca&fire=6366f1&currStreakLabel=4338ca&sideLabels=1f2937&dates=6b7280" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=HasanAlif&theme=default&hide_border=true" width="70%" alt="GitHub Streak" />
-  </picture>
-</div>
-
-<br/>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HasanAlif&theme=github_dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HasanAlif&theme=default" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HasanAlif&theme=default" width="90%" alt="Profile Details" />
-  </picture>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HasanAlif&theme=tokyonight" width="90%" alt="Profile Details" />
 </div>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HasanAlif&theme=github_dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HasanAlif&theme=default" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HasanAlif&theme=default" width="32%" alt="Repos per Language" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HasanAlif&theme=github_dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HasanAlif&theme=default" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HasanAlif&theme=default" width="32%" alt="Most Commit Language" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HasanAlif&theme=github_dark&utcOffset=6" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HasanAlif&theme=default&utcOffset=6" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HasanAlif&theme=default&utcOffset=6" width="32%" alt="Productive Time" />
-  </picture>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HasanAlif&theme=tokyonight" width="32%" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HasanAlif&theme=tokyonight" width="32%" alt="Most Commit Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HasanAlif&theme=tokyonight&utcOffset=6" width="32%" alt="Productive Time" />
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=HasanAlif&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=HasanAlif&theme=flat&no-frame=true&no-bg=true&column=7&margin-w=10" />
-    <img src="https://github-profile-trophy.vercel.app/?username=HasanAlif&theme=flat&no-frame=true&no-bg=true&column=7&margin-w=10" width="90%" alt="Trophies" />
-  </picture>
-</div>
-
----
 
 ## 🔝 Top Contributed Repos
 
@@ -257,7 +219,7 @@ const alif = {
 <br/>
 
 <div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=HasanAlif&icon=5&color=6" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=HasanAlif&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
 
 <!-- FOOTER — adapts to light & dark mode -->
